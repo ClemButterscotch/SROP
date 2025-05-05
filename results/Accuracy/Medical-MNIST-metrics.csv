@@ -1,0 +1,4 @@
+Algorithm,TestAcc,NMI,ARI
+k-means,0.944,0.814,0.751
+Ridge,0.87,0.813,0.75
+KNN,0.998,0.991,0.994
