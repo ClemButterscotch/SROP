@@ -1,0 +1,7 @@
+Method,Data,Accuracy,Wall-clock Time (s),FLOPs,Accuracy Note
+K-Means,Original,0.55365,36.30862021446228,1.03e+11,Mapped to y_train
+K-Means,PCA,0.5744166666666667,2.1759870052337646,3.25e+09,Mapped to y_train
+Ridge Classifier,Original,0.8113,2.033188819885254,7.41e+10,On y_test
+Ridge Classifier,PCA,0.773,0.1066138744354248,2.22e+08,On y_test
+KNN Classifier,Original,0.8554,31.120830059051514,9.41e+11,On y_test
+KNN Classifier,PCA,0.8572,1.2896459102630615,5.16e+10,On y_test
