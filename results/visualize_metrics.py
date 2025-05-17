@@ -88,7 +88,7 @@ def visualize_metrics(csv_filepath):
 if __name__ == '__main__':
     # Assuming the CSV file is in the same directory as the script
     # If your CSV is in the parent directory (results/) and script is also in results/
-    csv_file = 'Fashion-MNIST-metrics-comparison.csv' 
+    csv_file = 'MNIST-metrics-comparison.csv'
     
     # If the script is in 'results' and CSV is also in 'results'
     script_dir = os.path.dirname(__file__)
